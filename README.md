@@ -5,7 +5,7 @@
     "target": "_self",
     "api": "appHistory",
     "on": "currentchange"
-    "ifAllOf":["canTransition", "userInitiated", "hashChange"],
+    "ifAllOf":["canTransition", "userInitiated", "hashChange", "current.selectedView"],
     "transform": {
         "span": "selectedView"
     }
