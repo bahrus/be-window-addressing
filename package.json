@@ -1,0 +1,19 @@
+{
+  "name": "be-window-addressing",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/be-window-addressing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/be-window-addressing/issues"
+  },
+  "homepage": "https://github.com/bahrus/be-window-addressing#readme"
+}
