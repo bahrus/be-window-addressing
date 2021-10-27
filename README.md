@@ -4,7 +4,7 @@
 <div be-window-addressing='{
     "target": "_self",
     "api": "appHistory",
-    "on": "currentchange"
+    "on": "currentchange",
     "ifAllOf":["canTransition", "userInitiated", "hashChange", "current.selectedView"],
     "transform": {
         "span": "selectedView"
